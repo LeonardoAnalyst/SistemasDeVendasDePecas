@@ -1,0 +1,255 @@
+
+nov 02, 2018 14:18:59.18 NEW SESSION
+nov 02, 2018 14:18:59.19 [2044:10312:1102/141859.186:ERROR:network_change_notifier_win.cc(157)] WSALookupServiceBegin failed with: 8
+
+nov 03, 2018 18:41:27.32 NEW SESSION
+nov 03, 2018 18:41:27.32 [5800:9772:1103/184127.322:ERROR:network_change_notifier_win.cc(157)] WSALookupServiceBegin failed with: 8
+nov 03, 2018 19:56:40.75 [5800:9772:1103/195640.751:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 03, 2018 19:57:01.40 [6752:5444:1103/195701.401:ERROR:network_change_notifier_win.cc(157)] WSALookupServiceBegin failed with: 8
+
+nov 05, 2018 13:34:46.07 NEW SESSION
+nov 05, 2018 13:34:46.07 [12188:1528:1105/133446.076:ERROR:network_change_notifier_win.cc(157)] WSALookupServiceBegin failed with: 8
+nov 05, 2018 13:48:50.28 [12188:1528:1105/134850.281:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:53.86 [12188:1528:1105/134853.859:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:55.71 [12188:1528:1105/134855.715:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:55.96 [12188:1528:1105/134855.964:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:55.98 [12188:1528:1105/134855.986:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:56.04 [12188:1528:1105/134856.045:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:56.08 [12188:1528:1105/134856.083:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:56.20 [12188:1528:1105/134856.202:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:56.25 [12188:1528:1105/134856.253:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:56.28 [12188:1528:1105/134856.275:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:56.30 [12188:1528:1105/134856.295:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:56.32 [12188:1528:1105/134856.321:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:56.34 [12188:1528:1105/134856.336:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:56.35 [12188:1528:1105/134856.354:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:56.38 [12188:1528:1105/134856.381:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:56.41 [12188:1528:1105/134856.394:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:56.42 [12188:1528:1105/134856.406:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:56.42 [12188:1528:1105/134856.416:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:56.43 [12188:1528:1105/134856.433:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:56.45 [12188:1528:1105/134856.456:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:56.51 [12188:1528:1105/134856.513:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:56.54 [12188:1528:1105/134856.540:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:56.56 [12188:1528:1105/134856.566:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:56.59 [12188:1528:1105/134856.590:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:56.66 [12188:1528:1105/134856.667:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:56.74 [12188:1528:1105/134856.744:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:56.77 [12188:1528:1105/134856.770:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:56.79 [12188:1528:1105/134856.795:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:56.83 [12188:1528:1105/134856.833:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:56.88 [12188:1528:1105/134856.884:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:56.91 [12188:1528:1105/134856.910:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:56.93 [12188:1528:1105/134856.933:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:56.95 [12188:1528:1105/134856.955:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:57.02 [12188:1528:1105/134857.026:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:57.08 [12188:1528:1105/134857.084:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:57.10 [12188:1528:1105/134857.101:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:57.12 [12188:1528:1105/134857.122:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:57.48 [12188:1528:1105/134857.486:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:48:57.53 [12188:1528:1105/134857.537:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:49:04.00 [12188:1528:1105/134904.008:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:49:06.20 [12188:1528:1105/134906.203:ERROR:CONSOLE(0)] "Error: Style not editable", source:  (0)
+nov 05, 2018 13:49:21.13 [12188:1528:1105/134921.130:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+
+nov 05, 2018 18:15:18.12 NEW SESSION
+nov 05, 2018 18:15:18.13 [3704:2056:1105/181518.126:ERROR:network_change_notifier_win.cc(157)] WSALookupServiceBegin failed with: 8
+nov 05, 2018 18:15:33.84 [3704:2056:1105/181533.842:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 05, 2018 18:16:01.70 [3844:2740:1105/181601.705:ERROR:network_change_notifier_win.cc(157)] WSALookupServiceBegin failed with: 8
+nov 05, 2018 18:21:35.61 [3844:2740:1105/182135.613:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 05, 2018 18:22:37.93 [7476:6500:1105/182237.934:ERROR:network_change_notifier_win.cc(157)] WSALookupServiceBegin failed with: 8
+
+nov 05, 2018 20:30:54.18 NEW SESSION
+nov 05, 2018 20:30:54.18 [10276:7064:1105/203054.179:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 05, 2018 20:31:14.99 [10276:7064:1105/203114.990:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 05, 2018 20:31:28.88 [10276:8644:1105/203128.881:ERROR:account_tracker.cc(242)] AccessTokenFetched error: Connection failed (-106).
+nov 05, 2018 20:32:05.45 [10276:7064:1105/203205.451:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 05, 2018 20:33:37.07 [10276:7064:1105/203337.077:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 05, 2018 20:33:54.92 [10276:8644:1105/203354.924:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+nov 05, 2018 20:34:20.86 [10276:8644:1105/203420.859:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+nov 05, 2018 20:35:05.45 [10276:8644:1105/203505.457:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+nov 05, 2018 20:36:56.00 [10276:8644:1105/203655.999:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+nov 05, 2018 20:37:05.80 [10276:7064:1105/203705.800:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 05, 2018 20:39:50.41 [10276:8644:1105/203950.414:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+nov 05, 2018 20:43:55.40 [10276:7064:1105/204355.404:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 05, 2018 20:45:13.83 [10276:8644:1105/204513.829:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+nov 05, 2018 20:53:37.33 [10276:8644:1105/205337.337:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 05, 2018 20:57:43.55 [9900:11376:1105/205743.552:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 05, 2018 20:58:10.89 [9900:11376:1105/205810.890:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 05, 2018 20:58:17.02 [9900:3572:1105/205817.027:ERROR:account_tracker.cc(242)] AccessTokenFetched error: Connection failed (-106).
+nov 05, 2018 20:59:09.38 [9900:11376:1105/205909.382:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 05, 2018 21:00:49.44 [9900:11376:1105/210049.442:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 05, 2018 21:04:00.21 [9900:11376:1105/210400.217:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 05, 2018 21:08:57.79 [9900:3572:1105/210857.794:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+nov 05, 2018 21:09:23.70 [9900:3572:1105/210923.708:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+nov 05, 2018 21:10:13.13 [9900:3572:1105/211013.134:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+nov 05, 2018 21:11:37.96 [9900:3572:1105/211137.960:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+nov 05, 2018 21:11:39.54 [9900:11376:1105/211139.544:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 05, 2018 21:14:54.63 [9900:3572:1105/211454.638:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+nov 05, 2018 21:15:04.52 [9900:3572:1105/211504.519:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 05, 2018 21:19:54.45 [5928:11408:1105/211954.458:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 05, 2018 21:19:57.22 [5928:1584:1105/211957.222:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+nov 05, 2018 21:20:18.64 [5928:1584:1105/212018.648:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+nov 05, 2018 21:20:19.07 [5928:11408:1105/212019.071:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 05, 2018 21:20:28.87 [5928:1584:1105/212028.875:ERROR:account_tracker.cc(242)] AccessTokenFetched error: Connection failed (-106).
+nov 05, 2018 21:21:01.50 [5928:1584:1105/212101.499:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+nov 05, 2018 21:21:04.65 [5928:11408:1105/212104.648:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 05, 2018 21:22:33.99 [5928:11408:1105/212233.995:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 05, 2018 21:22:42.63 [5928:1584:1105/212242.637:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+nov 05, 2018 21:25:23.07 [5928:11408:1105/212523.071:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 05, 2018 21:26:15.82 [5928:1584:1105/212615.826:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+nov 05, 2018 21:31:00.37 [5928:1584:1105/213100.378:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 05, 2018 21:31:40.96 [8084:1816:1105/213140.962:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 05, 2018 21:32:06.94 [8084:1816:1105/213206.946:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 05, 2018 21:32:15.53 [8084:3980:1105/213215.535:ERROR:account_tracker.cc(242)] AccessTokenFetched error: Connection failed (-106).
+nov 05, 2018 21:32:49.87 [8084:1816:1105/213249.879:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 05, 2018 21:33:04.45 [8084:3980:1105/213304.456:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 05, 2018 21:33:39.21 [8264:6972:1105/213339.219:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 05, 2018 21:34:05.12 [8264:6972:1105/213405.126:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 05, 2018 21:34:10.31 [8264:11944:1105/213410.316:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+
+nov 06, 2018 12:09:32.01 NEW SESSION
+nov 06, 2018 12:09:32.01 [12244:8364:1106/120932.009:ERROR:network_change_notifier_win.cc(157)] WSALookupServiceBegin failed with: 8
+
+nov 06, 2018 13:40:34.39 NEW SESSION
+nov 06, 2018 13:40:34.39 [2040:8612:1106/134034.387:ERROR:network_change_notifier_win.cc(157)] WSALookupServiceBegin failed with: 8
+nov 06, 2018 13:44:52.48 [2040:8612:1106/134452.483:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 06, 2018 13:45:09.49 [6784:10668:1106/134509.494:ERROR:network_change_notifier_win.cc(157)] WSALookupServiceBegin failed with: 8
+nov 06, 2018 13:51:04.98 [6784:10668:1106/135104.982:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+
+nov 10, 2018 16:17:10.79 NEW SESSION
+nov 10, 2018 16:17:10.79 [5992:5412:1110/161710.795:ERROR:network_change_notifier_win.cc(157)] WSALookupServiceBegin failed with: 8
+nov 10, 2018 16:40:28.67 [5992:5412:1110/164028.670:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 10, 2018 16:41:11.75 [3820:8288:1110/164111.758:ERROR:network_change_notifier_win.cc(157)] WSALookupServiceBegin failed with: 8
+nov 10, 2018 16:55:53.79 [3820:8288:1110/165553.791:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 10, 2018 16:57:11.48 [12152:11928:1110/165711.481:ERROR:network_change_notifier_win.cc(157)] WSALookupServiceBegin failed with: 8
+
+nov 12, 2018 20:08:46.68 NEW SESSION
+nov 12, 2018 20:08:46.68 [1384:5996:1112/200846.679:ERROR:network_change_notifier_win.cc(157)] WSALookupServiceBegin failed with: 8
+
+nov 12, 2018 20:17:48.53 NEW SESSION
+nov 12, 2018 20:17:48.53 [8328:8300:1112/201748.528:ERROR:network_change_notifier_win.cc(157)] WSALookupServiceBegin failed with: 8
+
+nov 13, 2018 13:12:38.95 NEW SESSION
+nov 13, 2018 13:12:38.95 [2768:6592:1113/131238.947:ERROR:network_change_notifier_win.cc(157)] WSALookupServiceBegin failed with: 8
+
+nov 14, 2018 13:08:02.96 NEW SESSION
+nov 14, 2018 13:08:02.96 [1376:1904:1114/130802.958:ERROR:network_change_notifier_win.cc(157)] WSALookupServiceBegin failed with: 8
+
+nov 14, 2018 18:50:15.80 NEW SESSION
+nov 14, 2018 18:50:15.80 [5256:10760:1114/185015.801:ERROR:network_change_notifier_win.cc(157)] WSALookupServiceBegin failed with: 8
+nov 14, 2018 18:58:49.13 [5256:4036:1114/185849.133:ERROR:network_change_notifier_win.cc(157)] WSALookupServiceBegin failed with: 8
+nov 14, 2018 18:58:50.13 [5256:4036:1114/185850.135:ERROR:network_change_notifier_win.cc(157)] WSALookupServiceBegin failed with: 8
+nov 14, 2018 19:08:29.27 [5256:10760:1114/190829.271:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 14, 2018 19:10:09.10 [9296:5292:1114/191009.103:ERROR:network_change_notifier_win.cc(157)] WSALookupServiceBegin failed with: 8
+
+nov 16, 2018 15:51:25.43 NEW SESSION
+nov 16, 2018 15:51:25.43 [8000:1532:1116/155125.406:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 16, 2018 15:54:07.59 [652:4080:1116/155407.415:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 16, 2018 15:57:37.61 [8832:2328:1116/155737.619:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 16, 2018 16:17:36.81 [11068:9316:1116/161736.819:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 16, 2018 16:27:42.88 [8856:7180:1116/162742.883:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+
+nov 16, 2018 16:54:55.81 NEW SESSION
+nov 16, 2018 16:54:55.82 [8640:4348:1116/165455.814:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+
+nov 18, 2018 11:03:50.20 NEW SESSION
+nov 18, 2018 11:03:50.20 [1724:7900:1118/110350.202:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 18, 2018 12:06:17.68 [5020:7132:1118/120617.686:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+nov 18, 2018 12:06:23.37 [5020:7132:1118/120623.370:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+nov 18, 2018 12:16:01.21 [5020:10332:1118/121601.217:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+nov 18, 2018 12:16:01.43 [5020:10332:1118/121601.228:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 141 is too big.
+nov 18, 2018 12:18:01.51 [5020:7132:1118/121801.517:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+nov 18, 2018 12:45:00.00 [5020:7132:1118/124500.007:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+nov 18, 2018 12:50:20.43 [5020:7132:1118/125020.435:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 18, 2018 12:50:45.50 [5020:9768:1118/125045.502:ERROR:get_updates_processor.cc(242)] PostClientToServerMessage() failed during GetUpdates
+nov 18, 2018 12:50:50.41 [5020:7132:1118/125050.417:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 18, 2018 12:54:54.79 [5020:10332:1118/125454.794:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+
+nov 18, 2018 23:07:50.81 NEW SESSION
+nov 18, 2018 23:07:50.81 [696:6260:1118/230749.521:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+nov 18, 2018 23:07:50.96 [696:7444:1118/230750.518:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -21
+nov 18, 2018 23:07:54.19 [696:7444:1118/230754.193:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -21
+nov 18, 2018 23:10:43.38 [696:6260:1118/231043.379:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 18, 2018 23:13:08.32 [12776:4536:1118/231308.320:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+
+nov 19, 2018 19:58:26.18 NEW SESSION
+nov 19, 2018 19:58:26.18 [6116:3416:1119/195826.180:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 19, 2018 19:58:53.85 [6116:3416:1119/195853.851:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 19, 2018 19:58:59.25 [6116:8728:1119/195859.249:ERROR:account_tracker.cc(242)] AccessTokenFetched error: Connection failed (-106).
+nov 19, 2018 19:59:36.58 [6116:3416:1119/195936.582:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 19, 2018 20:01:26.05 [6116:3416:1119/200126.057:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 19, 2018 20:02:01.58 [6116:3416:1119/200201.583:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -21
+
+nov 21, 2018 20:28:19.75 NEW SESSION
+nov 21, 2018 20:28:19.75 [8944:8480:1121/202819.746:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 21, 2018 20:28:43.53 [8944:8480:1121/202843.529:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 21, 2018 20:28:52.50 [8944:7592:1121/202852.507:ERROR:account_tracker.cc(242)] AccessTokenFetched error: Connection failed (-106).
+nov 21, 2018 20:29:32.81 [8944:8480:1121/202932.817:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 21, 2018 20:30:00.76 [8944:7592:1121/203000.764:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+nov 21, 2018 20:30:29.31 [8944:7592:1121/203029.309:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+nov 21, 2018 20:31:13.22 [8944:7592:1121/203113.220:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+nov 21, 2018 20:31:17.61 [8944:8480:1121/203117.611:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 21, 2018 20:32:42.21 [8944:7592:1121/203242.212:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+nov 21, 2018 20:34:01.45 [8944:8480:1121/203401.458:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 21, 2018 20:36:26.23 [8944:7592:1121/203626.237:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+nov 21, 2018 20:38:48.95 [8944:7592:1121/203848.950:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 21, 2018 20:38:58.76 [1060:8404:1121/203858.763:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 21, 2018 20:39:23.72 [1060:8404:1121/203923.720:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 21, 2018 20:39:31.24 [1060:9900:1121/203931.241:ERROR:account_tracker.cc(242)] AccessTokenFetched error: Connection failed (-106).
+nov 21, 2018 20:40:13.99 [1060:8404:1121/204013.970:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 21, 2018 20:41:46.48 [1060:8404:1121/204146.483:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 21, 2018 20:44:40.89 [1060:8404:1121/204440.897:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 21, 2018 20:50:45.93 [1060:8404:1121/205045.930:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 21, 2018 20:51:31.13 [1060:9900:1121/205131.130:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+nov 21, 2018 20:52:01.04 [1060:9900:1121/205201.046:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+nov 21, 2018 20:52:49.76 [1060:9900:1121/205249.766:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+nov 21, 2018 20:54:15.01 [1060:9900:1121/205415.013:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+nov 21, 2018 20:57:36.29 [1060:9900:1121/205736.297:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+nov 21, 2018 21:00:45.93 [1060:8404:1121/210045.932:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 21, 2018 21:05:05.69 [1060:9900:1121/210505.694:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+nov 21, 2018 21:10:45.93 [1060:8404:1121/211045.934:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 21, 2018 21:15:05.69 [1060:9900:1121/211505.696:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+nov 21, 2018 21:20:45.93 [1060:8404:1121/212045.938:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 21, 2018 21:25:05.71 [1060:9900:1121/212505.712:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+nov 21, 2018 21:30:45.95 [1060:8404:1121/213045.951:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+nov 21, 2018 21:32:24.30 [1060:9900:1121/213224.302:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+
+nov 24, 2018 11:14:27.09 NEW SESSION
+nov 24, 2018 11:14:27.09 [3920:7396:1124/111427.082:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 24, 2018 11:45:33.33 [1412:7108:1124/114533.332:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+nov 24, 2018 11:45:33.66 [1412:7108:1124/114533.669:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+nov 24, 2018 12:15:41.72 [1412:7108:1124/121541.719:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+nov 24, 2018 12:41:40.44 [1412:9276:1124/124140.440:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 24, 2018 14:33:15.51 [9944:5412:1124/143315.515:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+nov 24, 2018 14:33:15.56 [9944:10412:1124/143315.531:ERROR:get_updates_processor.cc(242)] PostClientToServerMessage() failed during GetUpdates
+nov 24, 2018 14:33:16.39 [9944:4800:1124/143316.390:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -21
+nov 24, 2018 14:33:20.57 [9944:4800:1124/143320.574:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -21
+nov 24, 2018 15:14:00.45 [9944:4800:1124/151400.455:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+nov 24, 2018 15:14:03.08 [9944:4800:1124/151403.083:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+
+nov 24, 2018 18:56:34.35 NEW SESSION
+nov 24, 2018 18:56:34.35 [12128:1320:1124/185634.348:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 24, 2018 19:01:30.48 [4316:4804:1124/190130.486:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+
+nov 24, 2018 19:09:12.81 NEW SESSION
+nov 24, 2018 19:09:12.81 [6728:1152:1124/190912.809:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 24, 2018 19:18:57.56 [10864:8204:1124/191857.565:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 24, 2018 19:21:59.76 [2280:10144:1124/192159.769:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 24, 2018 19:33:37.42 [804:10604:1124/193337.423:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 24, 2018 19:35:58.63 [3404:10996:1124/193558.635:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 24, 2018 19:38:22.73 [3264:12224:1124/193822.729:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 24, 2018 19:43:50.62 [9684:10620:1124/194350.623:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+
+nov 24, 2018 20:19:16.72 NEW SESSION
+nov 24, 2018 20:19:16.73 [6352:1568:1124/201916.702:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 24, 2018 20:32:35.37 [1060:2984:1124/203235.376:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 24, 2018 20:35:19.14 [3180:11952:1124/203519.141:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 24, 2018 20:51:08.88 [1476:9920:1124/205108.883:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 24, 2018 20:54:56.36 [12908:10716:1124/205456.364:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 24, 2018 21:02:15.96 [12416:13280:1124/210215.965:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 24, 2018 21:34:54.57 [12640:13192:1124/213454.578:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+
+nov 26, 2018 13:52:24.78 NEW SESSION
+nov 26, 2018 13:52:24.78 [6272:5040:1126/135224.778:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+nov 26, 2018 14:01:38.86 [8780:10840:1126/140138.867:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED

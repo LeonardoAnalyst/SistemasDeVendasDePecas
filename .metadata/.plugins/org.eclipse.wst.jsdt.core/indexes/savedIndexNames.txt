@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\Leonardo\Documents\Trabalho Faculdade Sistema de Vendas\Workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3647790966.index
+1317405211.index
+966796805.index
+222758362.index
+4150454481.index
+2532437270.index
+2196031995.index
